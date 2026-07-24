@@ -172,7 +172,7 @@ h1.show{opacity:1;transform:translateY(0);}
 .tagline.show{opacity:1;}
 
 .coming-soon{
-  margin-top:clamp(1rem, 1.8vw, 1rem);
+  margin-top:clamp(20rem, 1.8vw, 1rem);
   font-size:clamp(0.9rem, 2.2vw, 1.2rem);
   letter-spacing:0.24em;
   text-transform:uppercase;
